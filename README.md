@@ -17,6 +17,5 @@ Optimized user interactions through the design and implementation of an efficien
 - **Asynchronous Data Exchange**: AJAX.
 - **Database**: MySQL (or any other database you're using).
 
-![Uploading Screenshot 2024-07-10 160407.png…]()
 
 
