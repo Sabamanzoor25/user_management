@@ -18,4 +18,5 @@ Optimized user interactions through the design and implementation of an efficien
 - **Database**: MySQL (or any other database you're using).
 
 
+![Screenshot 2024-07-10 160335](https://github.com/Sabamanzoor25/user_management/assets/102574980/1eb25529-5094-4e59-bc38-d390e7865733)
 
