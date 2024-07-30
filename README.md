@@ -15,7 +15,7 @@ Optimized user interactions through the design and implementation of an efficien
 - **Backend**: PHP for server-side logic.
 - **Frontend**: HTML, CSS, JavaScript.
 - **Asynchronous Data Exchange**: AJAX.
-- **Database**: MySQL (or any other database you're using).
+- **Database**: MySQL
 
 
 
